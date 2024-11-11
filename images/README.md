@@ -1,5 +1,7 @@
 # PyData Rhein-Main Logos
 
+All files are **SVGs**.
+
 ## Main Logo
 
 ![Main logo](pydata-rhein-main-blue.svg)
