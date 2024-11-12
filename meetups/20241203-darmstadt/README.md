@@ -38,3 +38,6 @@ Tobias Lampert is an experienced technical leader with expertise in Data Science
 ![event](eventbanner-pydata-rhein-main-241203.png) [link](eventbanner-pydata-rhein-main-241203.png)
 ![event](eventbanner-pydata-rhein-main-241203-QR.png)  [link](eventbanner-pydata-rhein-main-241203-QR.png)
 
+### Meetup event size
+![event](eventbanner-pydata-rhein-main-241203-MU-pics.png)  [link](eventbanner-pydata-rhein-main-241203-MU-pics.png)
+
