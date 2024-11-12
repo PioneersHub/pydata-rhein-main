@@ -1,6 +1,7 @@
 # 2024-12-03
 
-![event](eventbanner-pydata-rhein-main-241203.png)
+![event](eventbanner-pydata-rhein-main-241203-QR-pics.png) [link](eventbanner-pydata-rhein-main-241203-QR-pics.png)
+
 
 ## Boosting Time Series Accuracy: The Power of Ensemble Methods
 Robert Haase
@@ -32,5 +33,8 @@ Get detailed insights on the structure and functionality of Lotum’s SQL unit t
 Tobias Lampert is an experienced technical leader with expertise in Data Science and Data Engineering. With over 20 years of experience, he has designed and implemented data-intensive applications end-to-end, covering everything from data ingestion to deployment. He has developed solutions that generate insights from data using statistical analysis and machine learning. His passion lies in building user-friendly, high-performance, and cost-efficient data platforms.
 
 
+## Creatives
 
+![event](eventbanner-pydata-rhein-main-241203.png) [link](eventbanner-pydata-rhein-main-241203.png)
+![event](eventbanner-pydata-rhein-main-241203-QR.png)  [link](eventbanner-pydata-rhein-main-241203-QR.png)
 
