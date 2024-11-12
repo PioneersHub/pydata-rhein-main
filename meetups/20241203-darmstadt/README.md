@@ -17,7 +17,7 @@ Robert earned both his Bachelor's and Master's degrees in Physics from the Unive
 
 ## Unleashing Confidence in SQL Development through Unit Testing
 Tobias Lampert
-Expert Analytics Engineer
+Analytics Engineer
 Affiliation: Lotum media
 https://www.linkedin.com/in/tlampert/ 
 
