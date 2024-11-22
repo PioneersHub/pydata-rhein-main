@@ -1,5 +1,9 @@
 # PyData Rhein-Main
 
+## Speaker Briefing
+
+[The speaker briefing can be found here.](/docs/speaker-briefing.md)
+
 ## Logo
 
 ![Main-Logo](images/pydata-rhein-main-blue.svg)
