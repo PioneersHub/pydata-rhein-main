@@ -1,5 +1,9 @@
 # PyData Rhein-Main
 
+## Event Playbook
+
+[The playbook can be found here.](/docs/event-playbook.md)
+
 ## Speaker Briefing
 
 [The speaker briefing can be found here.](/docs/speaker-briefing.md)
