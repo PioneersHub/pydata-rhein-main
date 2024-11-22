@@ -54,7 +54,7 @@ The host provides snacks & refreshments. Snacks need to be ready for the network
 
 ## Content: Speakers
 
-PyData Südwest provides the speakers or coordinates speakers with the host.   
+PyData Rhein-Main provides the speakers or coordinates speakers with the host.   
 Speaker requirements:
 
 * Talk: technical or academic topic within PyData ecosystem (Python, data, AI, stats, ML, best practices with OSS, ethics,…).   
@@ -64,22 +64,22 @@ Speaker requirements:
 * We avoid the host also providing a speaker. We are happy to arrange for a talk at another host.  
 * First-time speakers welcome
 
-## Content creation: PyData Südwest
+## Content creation: PyData Rhein-Main
 
-PyData Südwest provides the following:
+PyData Rhein-Main provides the following:
 
 * Banners for use in social media:  
   * Event   
   * one per speaker  
-* Announcements on PyData Südwest social media:  
+* Announcements on PyData Rhein-Main social media:  
   * LinkedIn  
   * Twitter  
   * Telegram  
-  * Announcement Email to PyData Südwest members  
-  * Reminder to Email to PyData Südwest members  
+  * Announcement Email to PyData Rhein-Main members  
+  * Reminder to Email to PyData Rhein-Main members  
 * Signage for the event  
   * Signs to direct attendees on site  
-  * “Welcome”-Rollup PyData Südwest   
+  * “Welcome”-Rollup PyData Rhein-Main   
   * Founding sponsors NumFocus and Könisgweg roll-ups  
   * Name tags  
 * Slides for event moderation   
@@ -91,10 +91,10 @@ PyData Südwest provides the following:
 
 # Event \- Preparation
 
-## PyData Südwest
+## PyData Rhein-Main
 
-* PyData Südwest informs and updates attendees before the event.  
-* PyData: Südwest coordinates program with speakers.  
+* PyData Rhein-Main informs and updates attendees before the event.  
+* PyData: Rhein-Main coordinates program with speakers.  
 * Run announcements on social media.  
 * Prepare signage and slides
 
@@ -121,10 +121,10 @@ Start: 1,5 hrs before event
 
 Given the hybrid nature of the event, we need to stay on schedule, which means starting on time.
 
-Moderation: PyData Südwest Organizers
+Moderation: PyData Rhein-Main Organizers
 
 1. Start: Welcome and Community Announcements:  
-   1. 10 Minutes Welcome (PyData Südwest),   
+   1. 10 Minutes Welcome (PyData Rhein-Main),   
    2. 5 Minutes Welcome by Host  
 2. Talk 1: 30-60 minutes incl. Q\&A   
 3. Networking break with snacks & refreshments: 45 minutes  
