@@ -3,7 +3,15 @@
 ![event](eventbanner-pydata-rhein-main-241203-QR-pics.png) [link](eventbanner-pydata-rhein-main-241203-QR-pics.png)
 
 
+Organized by 
 
+Pioneers Hub gGmbH   
+[LinkedIn](https://www.linkedin.com/company/pioneershub/)
+[Website](https://pioneershub.org)
+
+Hessian AI   
+[LinkedIn](https://www.linkedin.com/company/hessian-ai-the-hessian-center-for-artificial-intelligence/)
+[Website](https://hessian.ai)
 
 
 ## Boosting Time Series Accuracy: The Power of Ensemble Methods
