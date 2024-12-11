@@ -15,6 +15,13 @@ This talk explores the practical application of ensemble methods in time series 
 ### About
 Robert earned both his Bachelor's and Master's degrees in Physics from the University of Heidelberg, specializing in Condensed Matter Physics and Computational Physics. During his Master's thesis in 2020, he advanced existing NLP Transformer architectures for timeseries applications. This involved Robert working extensively with uncertainty quantifications and normalizing flows. Since the beginning of 2021, he has been employed at Paretos, where the primary focus of his work lies in Timeseries Forecasting, specifically demand forecasting. Robert has a keen interest in combining traditional statistical methods with deep learning techniques.
 
+### Slides [here](talk-Boosting Time Series Accuracy.pdf)
+
+### Video 
+[![Boosting Time Series Accuracy](https://img.youtube.com/vi/xnF9QajUzv0/0.jpg)]([https://www.youtube.com/watch?v=xnF9QajUzv0](https://youtu.be/xnF9QajUzv0))
+
+
+
 ## Unleashing Confidence in SQL Development through Unit Testing
 Tobias Lampert
 Analytics Engineer
@@ -32,11 +39,16 @@ Get detailed insights on the structure and functionality of Lotum’s SQL unit t
 ### About
 Tobias Lampert is an experienced technical leader with expertise in Data Science and Data Engineering. With over 20 years of experience, he has designed and implemented data-intensive applications end-to-end, covering everything from data ingestion to deployment. He has developed solutions that generate insights from data using statistical analysis and machine learning. His passion lies in building user-friendly, high-performance, and cost-efficient data platforms.
 
+### Slides 
+[here](Talk-Unleashing Confidence in SQL Development through Unit Testing.pdf)
+
+### Video 
+[![Unleashing Confidence in SQL Development through Unit Testing](https://img.youtube.com/vi/YRVTWwFFd8c/0.jpg)]([https://www.youtube.com/watch?v=YRVTWwFFd8c]([https://youtu.be/xnF9QajUzv0](https://youtu.be/YRVTWwFFd8c)))
 
 ## Creatives
 
-![event](eventbanner-pydata-rhein-main-241203.png) [link](eventbanner-pydata-rhein-main-241203.png)
-![event](eventbanner-pydata-rhein-main-241203-QR.png)  [link](eventbanner-pydata-rhein-main-241203-QR.png)
+![event](talk-1-pydata-rhein-main-241203-YT.png) [link](talk-1-pydata-rhein-main-241203-YT.png)
+![event](talk-2-pydata-rhein-main-241203-YT.png)  [link](talk-2-pydata-rhein-main-241203-YT.png)
 
 ### Meetup event size
 ![event](eventbanner-pydata-rhein-main-241203-MU-pics.png)  [link](eventbanner-pydata-rhein-main-241203-MU-pics.png)
