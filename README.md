@@ -8,6 +8,11 @@
 
 [The speaker briefing can be found here.](/docs/speaker-briefing.md)
 
+## Meetups
+
+ - [2025-03-37 Darmstadt](meetups/20250327-darmstadt/README.md)
+ - [2024-12-03 Darmstadt](meetups/20241203-darmstadt/README.md)
+
 ## Logo
 
 ![Main-Logo](images/pydata-rhein-main-blue.svg)
@@ -17,7 +22,4 @@
 
 
 
-## Meetups
-
- - [2024-12-03 Darmstadt](meetups/20241203-darmstadt/README.md)
    
