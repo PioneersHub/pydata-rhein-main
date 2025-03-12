@@ -1,6 +1,6 @@
 # 2024-12-03
 
-![event](eventbanner-pydata-rhein-main-241203-QR-pics.png) [link](eventbanner-pydata-rhein-main-241203-QR-pics.png)
+![event](eventbanner-pydata-rhein-main-250327-MU-pics.png) [link](eventbanner-pydata-rhein-main-250327-MU-pics.png)
 
 
 Organized by 
@@ -59,4 +59,10 @@ no video, yet
 
 ### Meetup event size
 ![event](eventbanner-pydata-rhein-main-250327-MU-pics.png)  [link](eventbanner-pydata-rhein-main-250327-MU-pics.png)
+
+![event](eventbanner-pydata-rhein-main-250327-MU-talk1.png)  [link](eventbanner-pydata-rhein-main-250327-MU-talk1.png)
+
+
+![event](eventbanner-pydata-rhein-main-250327-MU-talk2.png)  [link](eventbanner-pydata-rhein-main-250327-MU-talk2.png)
+
 
